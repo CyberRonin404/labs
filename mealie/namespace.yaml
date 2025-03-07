@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: "2025-03-07T02:52:18Z"
+  labels:
+    kubernetes.io/metadata.name: mealie
+  name: mealie
+  resourceVersion: "427798"
+  uid: 2668e46c-cdc4-4cb4-877a-d5ee572efb64
+spec:
+  finalizers:
+  - kubernetes
+status:
+  phase: Active
